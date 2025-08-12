@@ -1,0 +1,7 @@
+prefix=/home/falcon/Documents/Projects/q&a_chatbot/venv
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}
