@@ -1,7 +1,0 @@
-prefix=/home/falcon/Documents/Projects/q&a_chatbot/venv
-includedir=${prefix}/include
- 
-Name: DMXProto
-Description: DMX extension headers
-Version: 2.3.1
-Cflags: -I${includedir}
